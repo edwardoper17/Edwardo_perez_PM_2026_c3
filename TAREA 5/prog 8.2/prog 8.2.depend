@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1793115237 source:c:\users\eduad\onedrive - instituto tecnológico de las américas (itla)\escritorio\tarea 4\tarea 5\prog 8.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
