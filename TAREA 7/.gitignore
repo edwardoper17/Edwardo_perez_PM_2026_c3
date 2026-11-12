@@ -1,0 +1,6 @@
+Nueva carpeta/
+*.exe
+*.o
+obj/
+bin/
+vehiculos.dat
