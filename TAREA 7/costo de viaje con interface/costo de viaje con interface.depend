@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1794798330 source:c:\users\eduad\onedrive - instituto tecnológico de las américas (itla)\escritorio\tarea 7\costo de viaje con interface\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
